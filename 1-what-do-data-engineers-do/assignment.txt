@@ -1,0 +1,33 @@
+Question
+Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering
+requirements? Hint: Think backward from what the business may need.
+
+Solution
+The following would be the necessary steps I would take;
+1. Understand Business Goals
+   This can be done by meeting with the necessary stakeholders to learn the business goals and objectives, and asking
+   required questions such as; What decisions need to be made? What are the pain points?
+
+2. Define Key Metrics
+   Based on the business objectives gathered, define metrics that aligns with them.
+
+3. Identify Data Sources & Data collection
+   The next step is to identify what data is available or needed, and the quality of the data. Then based on the
+   identified sources, collect the necessary data.
+
+4. Determine the Analytical Tools
+   After collecting the data, select the appropriate analytics tools based on the complexity of the analysis and the
+   skill set.
+
+5. Data Cleaning, and Analysis
+   An important step in data analysis is to clean the data to ensure its quality. Also, exploratory analysis can be
+   conducted to help identify trends and characteristics within the data, before finally analyzing it based on the set
+   goal.
+
+6. Reporting and Dashboards
+   It is important to be able to communicate your findings from the analysis done, and for stakeholders to access the
+   data easily for decision-making. This can be done by building dashboards and reports to provide real-time insights.
+
+7. Feedback and Refinement
+   Gathering continuous feedback from stakeholders to ensure that the insights provided are actionable and relevant, and
+   continuous refinement to implement them.
