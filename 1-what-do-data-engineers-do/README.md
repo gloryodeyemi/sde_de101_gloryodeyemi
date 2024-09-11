@@ -1,4 +1,4 @@
-## Responsibilities of a data engineer
+## Responsibilities of a Data Engineer
 
 1. Move data between systems
    * Extract
